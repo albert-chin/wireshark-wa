@@ -1,5 +1,5 @@
-wireshark-whatsapp
-==================
+wireshark-wa
+============
 
 Whatsapp dissector plugin for wireshark
 
